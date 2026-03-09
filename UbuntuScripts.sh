@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # SHELLSCRIPT DE COMANDOS BÁSICOS - UBUNTU LINUX
-# Autor: Exemplo
-# Data: $(date +%d/%m/%Y)
+# Autor: Bernardo
 # Descrição: Script demonstrando comandos básicos do Ubuntu
 # Distribuição: Testado no Ubuntu 20.04/22.04/24.04
 
